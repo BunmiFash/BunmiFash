@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BunmiFash
-- 👀 I’m interested in Fullstack Software Development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning HTML, CSS, C, JavaScript and Python.
 - 💞️ I’m looking to collaborate on projects.
 
 
